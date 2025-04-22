@@ -26,7 +26,7 @@ Create a clean, insightful Power BI dashboard using the Superstore dataset, focu
 
 ## 📂 Files Included
 - `SuperStore.pbix` → Power BI working file.
-- - `Superstore.csv` → Raw Data.
+- `Superstore.csv` → Raw Data.
 - `Superstore.pdf` → Exported Dashboard in PDF.
 - `Superstore.png` → Dashboard Screenshot.
 - `Superstore.pptx` → Project Documentation.
