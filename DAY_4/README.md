@@ -14,7 +14,8 @@ This dashboard leverages Power BI's advanced visualization and DAX capabilities 
 
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)**
-- **CSV Datasets**  
+- **CSV Datasets**
+- **Power Point**  
 ---
 
 ## 🧠 Dashboard Structure (4 Pages)
