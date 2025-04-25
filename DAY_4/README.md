@@ -54,7 +54,7 @@ This dashboard leverages Power BI's advanced visualization and DAX capabilities 
 | Executive Summary   | ![](https://github.com/TejasDeveloper-analyst/Elevate_labs/blob/f11997d2f51e0cef9ed8f1ca4d4aef3c6e3d4fb7/DAY_4/Executive%20Summary.png) |
 | Regional Performance| ![](https://github.com/TejasDeveloper-analyst/Elevate_labs/blob/9494ed12a7d0e74d18d708c14a9dc48d6e9624b2/DAY_4/Regional%20Performance.png)|
 | Customer Insights   | ![](https://github.com/TejasDeveloper-analyst/Elevate_labs/blob/9494ed12a7d0e74d18d708c14a9dc48d6e9624b2/DAY_4/Customer%20Insights.png) |
-| Category Breakdown  | ![](https://github.com/TejasDeveloper-analyst/Elevate_labs/blob/9494ed12a7d0e74d18d708c14a9dc48d6e9624b2/DAY_4/Category%20Insights.png) |
+| Category Breakdown  | ![](DAY_4/Category Insights.png) |
 
 ---
 
