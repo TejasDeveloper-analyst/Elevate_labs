@@ -51,5 +51,5 @@ This task strengthened my SQL reporting skills and ability to derive business in
 👤 **Author**: Tejas S  
 
 ## 🙏 Thank You
-Thanks to **Inelevant Labs** for this opportunity to apply SQL on real business data!  
+Thanks to **Elevate Labs** for this opportunity to apply SQL on real business data!  
 Looking forward to the next challenge! 🚀
