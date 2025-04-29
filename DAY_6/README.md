@@ -45,7 +45,7 @@ This project involved analyzing a synthetic e-commerce retail dataset using SQL.
 ---
 
 ## 🖼️ Screenshots of Results
-![Query 1](./Query%201.png)  
+![Query 1](DAY_6/1️⃣ Monthly Revenue and Order Volume.png)  
 ![Query 2](./Query%202.png)  
 ![Query 3](./Query%203.png)  
 ![Query 6](./Query%206.png)  
