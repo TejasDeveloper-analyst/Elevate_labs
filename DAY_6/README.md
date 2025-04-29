@@ -1,7 +1,6 @@
 # 📊 Sales Trend Analysis Using SQL
 
-## 📋 Project Overview
-
+## 📋 Internship Task 6: Data Analyst Role
 This project involved analyzing a synthetic e-commerce retail dataset using SQL. The goal was to extract insights about monthly trends, revenue, customer behavior, and top-performing products.
 
 ---
