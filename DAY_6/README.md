@@ -45,15 +45,15 @@ This project involved analyzing a synthetic e-commerce retail dataset using SQL.
 ---
 
 ## 🖼️ Screenshots of Results
-![Query 1](DAY_6/1️⃣ Monthly Revenue and Order Volume.png)  
-![Query 2](./Query%202.png)  
-![Query 3](./Query%203.png)  
+![Query 1](Elevate_labs/DAY_6/1_monthly_revenue.png)) 
+![Query 2](https://github.com/TejasDeveloper-analyst/Elevate_labs/blob/87371e4ea5a56e9ecf485da47539b831c5609703/DAY_6/2%EF%B8%8F%E2%83%A3%20Top%203%20Months%20by%20Revenue.png)  
+![Query 3](https://github.com/TejasDeveloper-analyst/Elevate_labs/blob/87371e4ea5a56e9ecf485da47539b831c5609703/DAY_6/3%EF%B8%8F%E2%83%A3%20Top%2010%20Products%20by%20Total%20Sales.png)  
 ![Query 6](./Query%206.png)  
 ![Query 7](./Query%207.png)  
 ![Query 8](./Query%207.png)  
 ![Query 9](./Query%207.png)
 ![Query 10](./Query%207.png) 
-![Query 11](./Query%207.png)     
+![Query 11](https://github.com/TejasDeveloper-analyst/Elevate_labs/blob/87371e4ea5a56e9ecf485da47539b831c5609703/DAY_6/1%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3%20Monthly%20Average%20Review%20Score.png)     
 
 ---
 
