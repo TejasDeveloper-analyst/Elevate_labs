@@ -1,4 +1,4 @@
-# 📊 Task 7: Sales Summary using SQLite and Python
+# Sales Summary using SQLite and Python
 
 ## Internship: Data Analyst Role at Elevate Labs
 
@@ -28,8 +28,8 @@ The goal was to calculate total revenue and quantity sold per product and visual
 1. Created SQLite database and `sales` table
 2. Imported CSV data into the database
 3. Executed SQL query to get:
-   - Total quantity sold
-   - Total revenue per product
+   - Top 5 quantity sold
+   - ToP 5 revenue product
 4. Loaded results into a Pandas DataFrame
 5. Printed summary table in terminal
 6. Plotted a bar chart of revenue per product
@@ -48,9 +48,9 @@ The goal was to calculate total revenue and quantity sold per product and visual
 
 Bar chart of revenue per product:
 
-![Revenue by Product](sales_chart.png)
+![Top 5 quantity sold](https://github.com/TejasDeveloper-analyst/Elevate_labs/blob/388876112d51d71146c5989500f09260ef7e54a9/DAY_7/chart2_top5_quantity.png)
+![ToP 5 revenue product](https://github.com/TejasDeveloper-analyst/Elevate_labs/blob/388876112d51d71146c5989500f09260ef7e54a9/DAY_7/chart1_revenue_by_product.png)
 
 ---
 
 👤 **Author**: Tejas S 
-🔗 GitHub Profile: [your profile link here]
