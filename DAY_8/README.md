@@ -43,7 +43,7 @@ The analysis is based on the **Superstore dataset**, split across three tables:
 
 Click the link below to view the published Power BI dashboard:
 
-👉 [**Superstore Sales Power BI Dashboard**](https://app.powerbi.com/view?r=your-dashboard-link)
+👉 [**Superstore Sales Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZTYwYTQzYjQtNDM0Mi00ZmUyLTgyYjQtNjcwMWI2NTJkMDE1IiwidCI6IjUwMTcxNjkxLTExNDItNDFjMi1hNzZjLWM2MDljZDExMmYzZiJ9)
 
 ---
 
