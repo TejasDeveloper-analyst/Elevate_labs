@@ -15,7 +15,7 @@ The objective of this dashboard is to:
 
 ## 📁 Dataset Details
 
-The analysis is based on a modified version of the **Superstore dataset**, split across four tables:
+The analysis is based on the **Superstore dataset**, split across three tables:
 1. **Orders Table** - Sales transactions and shipping details.
 2. **Customer Table** - Customer ID, name, and segment.
 3. **Geography Table** - City, state, region, and location keys.
