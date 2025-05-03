@@ -78,7 +78,6 @@ Click the link below to view the published Power BI dashboard:
 
 **Tejas S**  
 Data Analyst Intern  
-[📧tejas.analyst.11304@gmail.com]
 [Linkdin](https://www.linkedin.com/in/tejas-data-analyst/)
 
 ---
