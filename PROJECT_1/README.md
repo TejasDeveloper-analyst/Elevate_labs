@@ -69,7 +69,7 @@ To identify why customers return products and how return rates vary by product, 
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](assets/dashboard_screenshot.png)
+![Dashboard Screenshot](assets/dashboard.png)
 
 ---
 
