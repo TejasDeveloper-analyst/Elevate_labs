@@ -69,7 +69,7 @@ To identify why customers return products and how return rates vary by product, 
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](PROJECT_1/Dashboard.png)
+![Dashboard Screenshot](https://github.com/TejasDeveloper-analyst/Elevate_labs/blob/2e840359677b3fce7ae18afdaa12b268352d2ac1/PROJECT_1/Dashboard.png)
 ---
 
 ## 📥 Dataset Source
