@@ -82,7 +82,7 @@ All visuals are interactive and support filtering by weekday, age, and SMS recei
 
 ## 💬 Contact
 
-For questions or collaborations, feel free to connect on [LinkedIn](#)
+For questions or collaborations, feel free to connect on [LinkedIn](https://www.linkedin.com/in/tejas-data-analyst/)
 
 ---
 
