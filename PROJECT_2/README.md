@@ -48,7 +48,7 @@ All visuals are interactive and support filtering by weekday, age, and SMS recei
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](assets/healthcare_dashboard_dark.png)
+![Dashboard Screenshot](https://github.com/TejasDeveloper-analyst/Elevate_labs/blob/e4bfdc4b5aba03639815e11ba17df3a5819defd1/PROJECT_2/Dashboard.png)
 
 ---
 
