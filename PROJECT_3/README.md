@@ -58,7 +58,7 @@ Each visual supports filtering and interactivity using slicers.
 
 Click the link below to view the published Power BI dashboard:
 
-👉 [**Superstore Sales Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZTYwYTQzYjQtNDM0Mi00ZmUyLTgyYjQtNjcwMWI2NTJkMDE1IiwidCI6IjUwMTcxNjkxLTExNDItNDFjMi1hNzZjLWM2MDljZDExMmYzZiJ9)
+👉 [**Customer Churn Analysis Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiOTEyZmE4OTMtZTA5YS00ZjM2LWFlYzMtNTQ2NWUzYWU3YTIwIiwidCI6IjUwMTcxNjkxLTExNDItNDFjMi1hNzZjLWM2MDljZDExMmYzZiJ9)
 
 ---
 
