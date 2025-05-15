@@ -50,7 +50,7 @@ Each visual supports filtering and interactivity using slicers.
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](assets/churn_dashboard.png)
+![Dashboard Screenshot](https://github.com/TejasDeveloper-analyst/Elevate_labs/blob/654fb770b7277df3e574ebda6b0f4ac833aa55d2/PROJECT_3/Dashboard.png)
 
 ---
 
