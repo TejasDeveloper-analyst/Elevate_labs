@@ -50,7 +50,7 @@ All visuals are interactive and filterable using custom slicers for room type, b
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](assets/airbnb_dashboard.png)
+![Dashboard Screenshot](https://github.com/TejasDeveloper-analyst/Elevate_labs/blob/6af1934be9507d94708a5c8009dd819184934106/PROJECT_4/Dashboard.png)
 
 ---
 
