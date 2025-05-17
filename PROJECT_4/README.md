@@ -49,7 +49,7 @@ To empower hosts and analysts to make better pricing and availability decisions 
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/TejasDeveloper-analyst/Elevate_labs/blob/6af1934be9507d94708a5c8009dd819184934106/PROJECT_4/Dashboard.png)
+![Dashboard Screenshot](https://github.com/TejasDeveloper-analyst/Elevate_labs/blob/3adbf2b9067b73c14fb1ae5896d24f74b5346cd2/PROJECT_4/Dashboard.png)
 
 ---
 
