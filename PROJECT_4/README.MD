@@ -58,7 +58,7 @@ All visuals are interactive and filterable using custom slicers for room type, b
 
 Click the link below to view the published Power BI dashboard:
 
-👉 [**Airbnb Dynamic Pricing & Availability Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiY2QzMzZmYmQtZWJiYi00ZTY2LWJkZTktMmRjYjlmZDg0YWI4IiwidCI6IjUwMTcxNjkxLTExNDItNDFjMi1hNzZjLWM2MDljZDExMmYzZiJ9)
+👉 [**Airbnb Dynamic Pricing & Availability Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMWY0MTFkYTEtYzI4Yi00NDZkLTg3ZWYtM2I4NzUyNjFkNTY2IiwidCI6IjUwMTcxNjkxLTExNDItNDFjMi1hNzZjLWM2MDljZDExMmYzZiJ9)
 
 ---
 
